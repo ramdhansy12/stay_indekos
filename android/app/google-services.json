@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167400289197",
+    "project_id": "stay-indekos",
+    "storage_bucket": "stay-indekos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167400289197:android:4c6ea51472cce8cb0f2724",
+        "android_client_info": {
+          "package_name": "com.example.stay_indekos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167400289197-rvdo25ppie21lc66inkgicetee4ld23c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwYol28BhJG9_0cDghHIPh5muzK6eR1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167400289197-rvdo25ppie21lc66inkgicetee4ld23c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
